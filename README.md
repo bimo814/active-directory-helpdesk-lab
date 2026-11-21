@@ -58,6 +58,24 @@ This project is a hands-on IT administration lab built using Windows Server 2022
 - Join a Windows client computer to the domain.
 - Troubleshoot DNS and network connectivity.
 
+## Screenshots
+
+The following screenshots document the Active Directory lab:
+
+1. Domain Configuration - Created and verified the `corp.local` domain.
+2. Employees Organizational Unit - Created an Employees OU to organize user accounts.
+3. Employee Account - Created and verified the test user `jsmith`
+
+## Skills Demonstrated
+
+- Windows Server 2022 administration
+- Active Directory Domain Services (AD DS)
+- User account creation and management
+- Organizational Unit (OU) management
+- Password resets and password-change policies
+- PowerShell administration
+- Basic network connectivity troubleshooting
+
 ## Project Goal
 
 Develop practical skills in windows administration, Active Directory, PowerShell, and troubleshooting to prepare for entry-level IT Support and Help Desk Position.
